@@ -19,5 +19,5 @@ seasons_list = ["зима",
                 "осень",
                 "осень",
                 "зима"]
-print(f'{user_input}-й месяц соответствует времени года {seasons_list[user_input - 1]}')
+print(f'\n{user_input}-й месяц соответствует времени года {seasons_list[user_input - 1]}')
 
